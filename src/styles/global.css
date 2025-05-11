@@ -10,9 +10,10 @@ html {
 body {
     font-family: 'Gotham Pro';
     color: var(--main-text-color);
-    background-color: #e9e9f3;
+    background-color: #0E0E12;
     font-weight: 400;
     font-size: 18px;
+    text-decoration: underline;
 }
 
 .wrapper {
